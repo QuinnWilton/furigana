@@ -1,3 +1,4 @@
+require 'furigana/math'
 require "furigana/version"
 require 'furigana/util'
 
